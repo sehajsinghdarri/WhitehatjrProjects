@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background: linear-gradient(#e1bee7 0%, #90caf9 100%);
+  background-repeat: no-repeat;
+}
+img {
+  border-radius: 50%;
+  width: 100px;
+  margin-left:370px
+}
+h1 {
+  text-shadow: 2px 2px #f8bbd0;
+  font-size: 30px;
+  
+}
+
+.menu {
+  list-style: none;
+  font-family: cursive;
+  float: right;
+  top: 10px;
+  right: 30px;
+  cursor: pointer;
+  color: black;
+  font-family: 'Zen Kurenaido', sans-serif;
+}
+
+.link {  
+   float: left;
+   padding: 2px;
+}
